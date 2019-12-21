@@ -1,0 +1,8 @@
+
+int main()
+{
+	int hello=3;
+	int hello=4;
+	int helloWorld=hello+world;
+	return 0;
+}
